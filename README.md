@@ -41,4 +41,4 @@ How does replacing the ninth-grade scores affect the following:
 ![Scores by school type after](https://user-images.githubusercontent.com/95390073/151733118-08ec783d-91a2-46a9-80e6-b5bf74693646.png)
 
 
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+*Note - I was unable to finish this analysis due to time constraints.
